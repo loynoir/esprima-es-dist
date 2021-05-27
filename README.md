@@ -1,9 +1,6 @@
 ### Brief
 The `./dist` directory of `https://github.com/loynoir/esprima`
 
-### Usage
-Combine it with https://github.com/loynoir/esprima
-
 ### Why a repo?
 In case you have problems with building it from github
 
@@ -15,3 +12,6 @@ https://github.com/jquery/esprima
 
 ### Forked repo
 https://github.com/loynoir/esprima
+
+### Copyright
+If it is not legal to do it in such a way, please make an issue.
